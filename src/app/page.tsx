@@ -96,8 +96,8 @@ export default function Home() {
           transition={{ delay: 0.9, duration: 0.7 }}
         >
           This website is all about Nando and Sasa.<br />
-          Try clicking around and exploring!<br />
-          Enjoy the content and activities.
+          Coba klik-klik dan explore website nya dulu bebb<br />
+          More content and activities coming soon yaaaa (ga cukup waktu selesain soalnya WWKWKWKWK).
         </motion.p>
         <div className="flex flex-col gap-10 w-full items-center">
           {PHOTOS.map((src, i) => (
