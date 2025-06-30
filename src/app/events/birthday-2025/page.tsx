@@ -48,7 +48,7 @@ export default function Birthday2025() {
     <div className="flex flex-col items-center min-h-screen p-4 sm:p-8 bg-pink-50">
       <Confetti />
       <div className="w-full max-w-5xl bg-white/80 rounded-3xl shadow-2xl border-2 border-pink-200 p-6 sm:p-12 mt-10 mb-8 flex flex-col items-center gap-6">
-        <h1 className="text-3xl sm:text-4xl font-extrabold text-pink-600 text-center mb-2 tracking-wide">🎂 Sasa's Birthday 2025</h1>
+        <h1 className="text-3xl sm:text-4xl font-extrabold text-pink-600 text-center mb-2 tracking-wide">🎂 Sasa&apos;s Birthday 2025</h1>
         <video
           className="rounded-2xl w-full max-h-96 shadow-lg border-4 border-pink-300"
           controls
