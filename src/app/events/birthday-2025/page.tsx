@@ -49,17 +49,17 @@ export default function Birthday2025() {
       <Confetti />
       <div className="w-full max-w-5xl bg-white/80 rounded-3xl shadow-2xl border-2 border-pink-200 p-6 sm:p-12 mt-10 mb-8 flex flex-col items-center gap-6">
         <h1 className="text-3xl sm:text-4xl font-extrabold text-pink-600 text-center mb-2 tracking-wide">🎂 Sasa&apos;s Birthday 2025</h1>
-        <video
+        <iframe
+          src="https://drive.google.com/file/d/1MKkvzk3SqealRM8Xepv_i8mfsjM7m26j/preview"
+          width="100%"
+          height="400"
+          allow="autoplay"
           className="rounded-2xl w-full max-h-96 shadow-lg border-4 border-pink-300"
-          controls
-          poster="/birthday-poster.jpg"
-        >
-          <source src="/birthday-video.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
+          style={{ background: "#fff" }}
+        ></iframe>
         <div className="w-full bg-pink-100/70 border-l-4 border-pink-400 rounded-xl p-4 shadow text-pink-700 text-lg font-medium">
           Happy birthday bibobbb!! i love you tomattttt &lt;3 <br />
-          Wishing you the happiest birthday, my love. Here&apos;s to more memories, laughter, and adventures together!
+          Instead of kasih surat lagi, tahun ini aku coba buat format nyaa beda dulu yaaa. Enjoyy the video sayangggg!!!
         </div>
       </div>
       <div className="w-full max-w-5xl bg-white/80 rounded-3xl shadow-xl border-2 border-pink-100 p-6 sm:p-12 flex flex-col items-center gap-6 mb-12">
