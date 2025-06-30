@@ -59,7 +59,7 @@ export default function Birthday2025() {
         </video>
         <div className="w-full bg-pink-100/70 border-l-4 border-pink-400 rounded-xl p-4 shadow text-pink-700 text-lg font-medium">
           Happy birthday bibobbb!! i love you tomattttt &lt;3 <br />
-          Wishing you the happiest birthday, my love. Here's to more memories, laughter, and adventures together!
+          Wishing you the happiest birthday, my love. Here&apos;s to more memories, laughter, and adventures together!
         </div>
       </div>
       <div className="w-full max-w-5xl bg-white/80 rounded-3xl shadow-xl border-2 border-pink-100 p-6 sm:p-12 flex flex-col items-center gap-6 mb-12">
