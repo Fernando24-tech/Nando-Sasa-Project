@@ -1,10 +1,12 @@
+"use client";
 export default function POM() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen p-8">
-      <h1 className="text-3xl sm:text-4xl font-bold text-pink-600 mb-4">🏆 Partner of the Month</h1>
-      <p className="text-lg text-pink-500 text-center mb-8">Who will be crowned Partner of the Month? Take the quiz and find out! (Coming soon)</p>
-      <div className="w-full max-w-2xl min-h-[200px] bg-white/70 border border-pink-100 rounded-xl shadow-inner flex items-center justify-center text-pink-300 italic">
-        (Quiz and results will appear here)
+    <div className="flex flex-col items-center min-h-screen p-4 sm:p-8 bg-pink-50">
+      <div className="w-full max-w-5xl bg-white/80 rounded-3xl shadow-2xl border-2 border-pink-200 p-6 sm:p-12 mt-10 mb-8 flex flex-col items-center gap-6">
+        <h1 className="text-3xl sm:text-4xl font-extrabold text-pink-600 text-center mb-2 tracking-wide">🏆 Partner of the Month</h1>
+        <div className="flex flex-col items-center justify-center w-full h-96">
+          <span className="text-5xl font-extrabold text-pink-400 mb-4">Coming Soon</span>
+        </div>
       </div>
     </div>
   );
