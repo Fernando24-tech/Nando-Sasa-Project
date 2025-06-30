@@ -28,7 +28,7 @@ export default function LoginPage() {
         onSubmit={handleSubmit}
         className="bg-white p-8 rounded-lg shadow-lg flex flex-col gap-4 w-full max-w-sm border border-pink-200"
       >
-        <h2 className="text-2xl font-bold text-pink-600 text-center mb-2">Welcome, Love!</h2>
+        <h2 className="text-2xl font-bold text-pink-600 text-center mb-2">Helloooo, Bibobbb!</h2>
         <input
           type="text"
           placeholder="Username"

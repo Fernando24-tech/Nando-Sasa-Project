@@ -147,7 +147,7 @@ export default function LoveNav() {
           </svg>
           <span className="text-lg font-extrabold text-pink-600 tracking-wide">SANDO</span>
         </Link>
-        <div className="flex gap-2">
+        <div className="flex gap-2 overflow-x-auto whitespace-nowrap max-w-full px-1">
           <Link href="/" className="flex flex-col items-center text-pink-600 hover:text-pink-700 px-2">
             <HomeIcon className="w-6 h-6" />
             <span className="text-xs">Home</span>

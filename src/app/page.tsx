@@ -43,8 +43,8 @@ export default function Home() {
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/30">
           <div className="relative bg-white rounded-3xl shadow-2xl border-2 border-pink-200 p-8 flex flex-col items-center gap-6 max-w-md w-full animate-pop">
             <Confetti />
-            <h2 className="text-3xl font-extrabold text-pink-600 text-center mb-2 tracking-wide">Happy Birthday!</h2>
-            <p className="text-lg text-pink-500 text-center mb-2">To open your package, please click the gift below.</p>
+            <h2 className="text-3xl font-extrabold text-pink-600 text-center mb-2 tracking-wide">Happy Birthday bebbb!</h2>
+            <p className="text-lg text-pink-500 text-center mb-2">Tekan box di bawah pake jempol gemoi nya, buat buka hadiah nya yaa h3h3h3 :).</p>
             <button
               className="mt-2 animate-bounce-slow focus:outline-none"
               onClick={() => {
